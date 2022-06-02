@@ -4,4 +4,8 @@
 ![](gui-icon.png)
 
 #Скріншоти роботи програми:
-<img src=" "/>
+<img src="https://github.com/ppc-ntu-khpi/tui-1-KAZAHv2/blob/master/1.PNG?raw=true"/>
+
+<img src="https://github.com/ppc-ntu-khpi/tui-1-KAZAHv2/blob/master/2.PNG?raw=true"/>
+
+<img src="https://github.com/ppc-ntu-khpi/tui-1-KAZAHv2/blob/master/3.PNG?raw=true"/>
